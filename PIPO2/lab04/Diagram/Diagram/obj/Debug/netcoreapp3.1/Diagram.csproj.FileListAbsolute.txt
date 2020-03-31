@@ -1,0 +1,11 @@
+C:\Users\Michal\source\repos\Diagram\Diagram\obj\Debug\netcoreapp3.1\Diagram.csprojAssemblyReference.cache
+C:\Users\Michal\source\repos\Diagram\Diagram\obj\Debug\netcoreapp3.1\Diagram.AssemblyInfoInputs.cache
+C:\Users\Michal\source\repos\Diagram\Diagram\obj\Debug\netcoreapp3.1\Diagram.AssemblyInfo.cs
+C:\Users\Michal\source\repos\Diagram\Diagram\bin\Debug\netcoreapp3.1\Diagram.exe
+C:\Users\Michal\source\repos\Diagram\Diagram\bin\Debug\netcoreapp3.1\Diagram.deps.json
+C:\Users\Michal\source\repos\Diagram\Diagram\bin\Debug\netcoreapp3.1\Diagram.runtimeconfig.json
+C:\Users\Michal\source\repos\Diagram\Diagram\bin\Debug\netcoreapp3.1\Diagram.runtimeconfig.dev.json
+C:\Users\Michal\source\repos\Diagram\Diagram\bin\Debug\netcoreapp3.1\Diagram.dll
+C:\Users\Michal\source\repos\Diagram\Diagram\bin\Debug\netcoreapp3.1\Diagram.pdb
+C:\Users\Michal\source\repos\Diagram\Diagram\obj\Debug\netcoreapp3.1\Diagram.dll
+C:\Users\Michal\source\repos\Diagram\Diagram\obj\Debug\netcoreapp3.1\Diagram.pdb
